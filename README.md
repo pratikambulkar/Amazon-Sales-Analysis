@@ -1,8 +1,7 @@
 # Amazon-Sales-Analysis
 This Power BI dashboard uncovers key insights from Amazon sales data: $2M+ revenue from 5,400+ orders, with top sales in Accessories. North America leads in revenue, and professionals are key buyers. High-margin products and loyal customers drive growth, indicating strong potential for scalable expansion.
-Amazon Sales Data Analysis – Power BI Dashboard Summary
 
-This Power BI dashboard delivers a comprehensive analysis of Amazon sales data, offering valuable business insights across product categories, customer segments, geographies, and revenue patterns.
+Amazon Sales Data Analysis – Power BI Dashboard Summary:
 
 1. Overall Performance
 Total Revenue: Over $2 million generated from more than 5,400 orders, indicating robust business health.
@@ -62,3 +61,7 @@ Expanding in strong regions like North America
 
 Conclusion
 This analysis reflects strong sales performance, customer retention, and market demand. The business is well-positioned for scalable growth, with clear opportunities to enhance marketing, optimize product strategy, and deepen customer engagement.
+
+
+![Screenshot (146)](https://github.com/user-attachments/assets/33340992-7eca-4be6-9ca0-33799e91bdc5)
+
