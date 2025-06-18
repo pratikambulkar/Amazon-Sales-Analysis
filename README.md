@@ -65,3 +65,4 @@ This analysis reflects strong sales performance, customer retention, and market 
 
 ![Screenshot (146)](https://github.com/user-attachments/assets/33340992-7eca-4be6-9ca0-33799e91bdc5)
 
+![Screenshot (137)](https://github.com/user-attachments/assets/0875f59c-b87a-4793-b93c-343308e5613f)
